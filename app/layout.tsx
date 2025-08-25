@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Mariettekelley Solutions - Global Cloud Telephony That Scales With You",
   description:
     "iGCT by Mariettekelley connects you worldwide through reliable, cloud-powered voice solutions for enterprise sales teams.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "cloud telephony, global calling, voice solutions, iGCT, B2B sales tools, VoIP, Tacoma",
   authors: [{ name: "Mariettekelley Solutions" }],
   openGraph: {
